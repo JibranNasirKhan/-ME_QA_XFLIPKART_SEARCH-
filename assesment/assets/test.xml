@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45">
+<file name="E:\CRIO\Crio Project\jibrankhan001-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\TestCases.java">
+<error line="20" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="37" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="40" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="43" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="44" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="45" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="46" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="47" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="48" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="49" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="59" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="60" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="E:\CRIO\Crio Project\jibrankhan001-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\wrappers\Wrappers.java">
+<error line="30" severity="error" message="USED_WAIT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="41" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="45" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="52" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="59" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="77" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="81" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="98" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="105" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="116" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="121" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="133" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="136" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="139" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="140" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="141" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+</checkstyle>
